@@ -1,4 +1,4 @@
-gpasteinin_II
+gpasteitin_II
 =====
 
 Installation
