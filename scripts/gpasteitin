@@ -1,0 +1,5 @@
+#!/bin/bash
+
+exec /usr/bin/env -- python -c \
+     "from gpasteitin import gpasteitin; gpasteitin.GPasteItIn ()" >/dev/null 2>&1
+

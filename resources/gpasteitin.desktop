@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=GPasteItIn II
+Comment=Paste / Snippet Manager
+Exec=gpasteitin
+Icon=gpasteitin
+Terminal=false
+Type=Application
+Categories=Application;Utility
+StartupNotify=true
