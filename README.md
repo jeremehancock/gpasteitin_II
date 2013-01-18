@@ -6,7 +6,7 @@ Installation
 
     1. Download the gpasteitin_II package.
     2. Extract the gpasteitin_II package.
-    3. Open Terminal and cd into the gpasteitin_II-master folder 
+    3. Open Terminal and cd into the gpasteitin_II-master folder.
     4. Run this command: sudo ./install.py install --record install_log
 
 Usage
